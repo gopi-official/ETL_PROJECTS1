@@ -1,0 +1,501 @@
+Sno.,Name,Age,Gender,Blood_Type,Medical_Condition,Date_of_Admission,Doctor,Insurance_Provider,Billing_Amount,Medication
+0,Bobby jackson,30,Male,B-,Cancer,31/01/2024,Matthew Smith,Blue Cross,18856.28,Paracetamol
+1,Leslie terry,62,Male,A+,Obesity,20/08/2019,Samantha Davies,Medicare,33643.33,Ibuprofen
+2,Danny smith,76,Female,A-,Obesity,22/09/2022,Tiffany Mitchell,Aetna,27955.1,Aspirin
+3,Andrew watts,28,Female,O+,Diabetes,18/11/2020,Kevin Wells,Medicare,37909.78,Ibuprofen
+4,Adrienne bell,43,Female,AB+,Cancer,19/09/2022,Kathleen Hanna,Aetna,14238.32,Penicillin
+5,Emily johnson,36,Male,A+,Asthma,20/12/2023,Taylor Newton,UnitedHealthcare,48145.11,Ibuprofen
+6,Edward edwards,21,Female,AB-,Diabetes,03/11/2020,Kelly Olson,Medicare,19580.87,Paracetamol
+7,Christina martinez,20,Female,A+,Cancer,28/12/2021,Suzanne Thomas,Cigna,45820.46,Paracetamol
+8,Jasmine aguilar,82,Male,AB+,Asthma,01/07/2020,Daniel Ferguson,Cigna,50119.22,Aspirin
+9,Christopher berg,58,Female,AB-,Cancer,23/05/2021,Heather Day,UnitedHealthcare,19784.63,Paracetamol
+10,Michelle daniels,72,Male,O+,Cancer,19/04/2020,John Duncan,Medicare,12576.8,Paracetamol
+11,Aaron martinez,38,Female,A-,Hypertension,13/08/2023,Douglas Mayo,Medicare,7999.59,Lipitor
+12,Connor hansen,75,Female,A+,Diabetes,12/12/2019,Kenneth Fletcher,Cigna,43282.28,Penicillin
+13,Robert bauer,68,Female,AB+,Asthma,22/05/2020,Theresa Freeman,UnitedHealthcare,33207.71,Lipitor
+14,Brooke brady,44,Female,AB+,Cancer,08/10/2021,Roberta Stewart,UnitedHealthcare,40701.6,Paracetamol
+15,Ms. natalie gamble,46,Female,AB-,Obesity,01/01/2023,Maria Dougherty,Blue Cross,12263.36,Aspirin
+16,Haley perkins,63,Female,A+,Arthritis,23/06/2020,Erica Spencer,UnitedHealthcare,24499.85,Paracetamol
+17,Mrs. jamie campbell,38,Male,AB-,Obesity,08/03/2020,Justin Kim,Cigna,17440.47,Paracetamol
+18,Luke burgess,34,Female,A-,Hypertension,04/03/2021,Justin Moore Jr.,Blue Cross,18843.02,Aspirin
+19,Daniel schmidt,63,Male,B+,Asthma,15/11/2022,Denise Galloway,Cigna,23762.2,Penicillin
+20,Timothy burns,67,Female,A-,Asthma,28/06/2023,Krista Smith,Blue Cross,42.51,Aspirin
+21,Christopher bright,48,Male,B+,Asthma,21/01/2020,Gregory Smith,Aetna,17695.91,Lipitor
+22,Kathryn stewart,58,Female,O+,Arthritis,12/05/2022,Vanessa Newton,Aetna,5998.1,Lipitor
+23,Dr. eileen thompson,59,Male,A+,Asthma,02/08/2021,Donna Martinez MD,Aetna,25250.05,Lipitor
+24,Paul henderson,72,Female,AB+,Hypertension,15/05/2020,Stephanie Kramer,Medicare,33211.3,Paracetamol
+25,Peter fitzgerald,73,Male,AB+,Obesity,15/05/2020,Angela Contreras,Medicare,19746.83,Aspirin
+26,Cathy small,51,Female,O-,Asthma,23/12/2023,Wendy Glenn,Blue Cross,26786.53,Ibuprofen
+27,Mr. kenneth moore,34,Female,A+,Diabetes,21/06/2022,James Ellis,UnitedHealthcare,18834.8,Lipitor
+28,Mary hunter,38,Female,O-,Hypertension,03/01/2021,Jared Bruce Jr.,Cigna,32643.3,Penicillin
+29,Joshua oliver,63,Female,B+,Hypertension,03/10/2023,Brandy Mitchell,Aetna,5767.01,Paracetamol
+30,Thomas martinez,34,Male,B-,Asthma,18/08/2019,Jacob Huynh,Cigna,47909.13,Ibuprofen
+31,James patterson,23,Female,A+,Arthritis,03/11/2019,Kristina Frazier,UnitedHealthcare,25835.32,Penicillin
+32,William cooper,78,Male,AB-,Arthritis,18/05/2023,John Hartman,Medicare,17993.23,Penicillin
+33,Erin ortega,43,Male,AB-,Cancer,24/05/2023,Heather Garcia,Medicare,21185.95,Ibuprofen
+34,Nicole rodriguez,30,Female,AB+,Diabetes,17/01/2020,Lynn Young,Blue Cross,8408.95,Lipitor
+35,David anderson,25,Female,AB+,Asthma,07/01/2021,Emma Allison,Medicare,45453.42,Lipitor
+36,Denise torres,33,Male,AB+,Diabetes,14/10/2019,Laura Myers,Aetna,4397.78,Paracetamol
+37,Cassandra robinson,26,Female,B-,Hypertension,19/12/2021,Travis Parsons,Aetna,9380.33,Ibuprofen
+38,Nicole lucero,70,Female,O-,Diabetes,12/03/2022,Christine Johnson,Cigna,48290.69,Lipitor
+39,Pamela fernandez,57,Female,B-,Obesity,17/01/2021,Emily Taylor,Medicare,32973.94,Penicillin
+40,Christopher lee,74,Female,B-,Hypertension,15/09/2021,William Reynolds,Cigna,49943.28,Lipitor
+41,Thomas morse,81,Male,A+,Hypertension,27/01/2020,Jennifer Carter,Cigna,35633.96,Aspirin
+42,Mr. eric lane,49,Female,A-,Asthma,24/06/2022,Matthew Thomas,Cigna,25966.33,Paracetamol
+43,Katherine smith,26,Female,AB+,Obesity,09/06/2021,Mary Logan,UnitedHealthcare,21784.45,Paracetamol
+44,Paul williams,81,Female,AB-,Cancer,23/08/2020,Kristin Martinez,Medicare,42684.56,Penicillin
+45,Lynn martinez,65,Male,O+,Cancer,12/10/2022,Daniel Murphy,Medicare,45585.89,Penicillin
+46,Christopher chapman,31,Female,O+,Hypertension,01/12/2021,Emily Patterson,Cigna,29615.44,Paracetamol
+47,Chris frye,58,Male,A-,Diabetes,04/05/2020,Heather Smith,Cigna,36992.27,Aspirin
+48,Kyle bennett,22,Male,O+,Hypertension,09/09/2023,John Smith,UnitedHealthcare,28051.5,Ibuprofen
+49,Brandon collins,77,Female,O+,Asthma,19/07/2019,Cameron Young,Cigna,16320.23,Ibuprofen
+50,Michael liu,30,Male,AB-,Hypertension,05/04/2024,Vicki Nguyen,Medicare,30590.54,Paracetamol
+51,Stephanie kent,42,Female,A-,Cancer,15/06/2019,Mary Moss,Aetna,14681.02,Ibuprofen
+52,Jesse banks,67,Female,AB+,Cancer,29/10/2022,Alexander Garcia,Aetna,21879.53,Penicillin
+53,Peggy lee,24,Female,A-,Obesity,08/04/2022,Patrick Burns,UnitedHealthcare,6767.63,Lipitor
+54,Tamara hernandez,84,Female,B-,Asthma,17/08/2023,Kayla Powers,Cigna,19973.46,Ibuprofen
+55,Mr. david pierce md,73,Female,A-,Hypertension,05/11/2023,Julia Cox,UnitedHealthcare,14362.31,Paracetamol
+56,Bethany moore,55,Female,A+,Cancer,09/04/2023,Penny Pruitt,Cigna,10300.66,Paracetamol
+57,Michael mills,23,Male,O-,Hypertension,21/09/2022,Mrs. Lori Hurst PhD,Aetna,37951.66,Ibuprofen
+58,Kyle wiley,40,Female,AB-,Cancer,21/01/2021,Stephen Carr,Aetna,6733.99,Ibuprofen
+59,Jacqueline jordan,51,Male,O+,Hypertension,10/07/2020,Jacob Daniel,Aetna,17839.75,Paracetamol
+60,Ashley gutierrez,83,Male,AB+,Obesity,06/11/2019,Tyler Braun,Aetna,24637.09,Paracetamol
+61,Kim scott,63,Male,A-,Asthma,07/04/2024,Cindy Ellis,UnitedHealthcare,39723.17,Ibuprofen
+62,Travis carter,18,Male,A+,Cancer,06/07/2022,Megan Hahn,UnitedHealthcare,48407.39,Aspirin
+63,Larry rodgers,23,Female,B-,Hypertension,03/08/2022,Eric Kelly,Cigna,5517.39,Aspirin
+64,Nancy glover,58,Male,A-,Hypertension,08/05/2020,Jennifer Larson,Medicare,19183.17,Aspirin
+65,Jessica king,27,Male,AB-,Cancer,09/12/2019,William Hess,Medicare,8320.66,Lipitor
+66,Christopher gonzalez,59,Male,B+,Diabetes,21/11/2019,Patricia Dunn,Medicare,10107.19,Penicillin
+67,John hartman,27,Male,B-,Hypertension,07/01/2023,Jack Jackson,Cigna,49402.3,Lipitor
+68,Michael miller,31,Male,B+,Diabetes,06/02/2024,Jonathan Drake,UnitedHealthcare,35776.82,Penicillin
+69,Erica myers,19,Female,A+,Arthritis,30/01/2020,Ian Benitez,Medicare,20227.86,Penicillin
+70,Carol patterson,29,Female,O+,Cancer,24/10/2022,Jamie Baker,Blue Cross,19328.12,Ibuprofen
+71,Jose lopez,18,Male,A-,Obesity,09/01/2022,Erika Jackson,Aetna,46956.55,Aspirin
+72,Kevin simmons jr.,24,Male,AB-,Cancer,28/12/2023,Amanda Garcia,Cigna,10709.69,Paracetamol
+73,Duane haney,27,Male,AB-,Diabetes,16/09/2021,Raven Wong,Aetna,45353.99,Penicillin
+74,Jonathan yates,57,Female,AB-,Arthritis,24/07/2023,Cynthia Scott,Aetna,8451,Paracetamol
+75,John thomas,74,Female,A+,Arthritis,13/11/2021,Mark Padilla,UnitedHealthcare,29850.88,Paracetamol
+76,Adrian buckley,22,Female,A-,Arthritis,11/10/2023,Julie Ramirez,Blue Cross,42696.52,Penicillin
+77,April santiago,33,Female,B-,Diabetes,30/01/2021,Jacob Rich,Cigna,2305.14,Penicillin
+78,Diane schultz,57,Male,B+,Arthritis,21/11/2021,Mark Hartman Jr.,UnitedHealthcare,44437.47,Penicillin
+79,Timothy myers,61,Male,B+,Cancer,02/03/2024,Timothy Baker,UnitedHealthcare,29504.39,Ibuprofen
+80,Nicole hughes,20,Male,O+,Arthritis,04/12/2020,Lori Sanchez,Blue Cross,34617.79,Ibuprofen
+81,Chad moreno,67,Male,AB+,Hypertension,26/08/2020,Connie Boyd,Aetna,46814.01,Penicillin
+82,Sean jennings,80,Female,AB-,Diabetes,12/11/2023,James Tucker,Blue Cross,20257.54,Penicillin
+83,Diane branch,44,Male,O+,Obesity,30/05/2020,Juan Acevedo,Cigna,22841.36,Aspirin
+84,Cindy orozco,26,Female,B-,Asthma,12/05/2023,Julie Finley,Medicare,10283.72,Ibuprofen
+85,Patricia medina,80,Male,AB+,Cancer,07/07/2022,Miguel Parker,UnitedHealthcare,1586.48,Ibuprofen
+86,Kayla padilla,63,Male,B-,Asthma,24/09/2020,Jermaine Peters,Aetna,34774.35,Penicillin
+87,Juan klein,58,Female,B-,Arthritis,19/08/2023,Lisa Edwards,UnitedHealthcare,24870.1,Ibuprofen
+88,William hill,38,Female,A+,Cancer,16/05/2023,Matthew Walker,Cigna,39476.95,Aspirin
+89,Carl best,60,Male,B+,Hypertension,22/08/2022,Gregory Hansen,Blue Cross,26062.43,Paracetamol
+90,Tina griffin,49,Male,B+,Cancer,17/06/2022,Jessica Cruz,Medicare,25302.11,Penicillin
+91,Mr. tyler taylor phd,80,Male,A+,Diabetes,05/11/2022,Robert Salazar,UnitedHealthcare,10661.51,Lipitor
+92,Taylor howell dds,35,Female,B+,Diabetes,10/09/2021,Kyle Patterson,Blue Cross,30358.19,Ibuprofen
+93,Michael martin,84,Male,A+,Asthma,06/09/2022,John Summers,Cigna,23684.53,Ibuprofen
+94,Heather miller,76,Male,A+,Diabetes,17/04/2021,Scott Grant,Aetna,3908.95,Lipitor
+95,Catherine gardner,79,Female,A-,Hypertension,19/08/2019,David Ruiz,Medicare,25503.67,Lipitor
+96,Anne thompson,76,Female,O+,Diabetes,24/03/2024,Kyle Smith,Aetna,6312.61,Aspirin
+97,Todd cooper,55,Female,A+,Diabetes,10/12/2022,Jason Price,UnitedHealthcare,21772.34,Ibuprofen
+98,Phillip lyons,53,Male,B-,Cancer,14/09/2022,Stephanie Clements,Blue Cross,30437,Aspirin
+99,Mark ford,18,Male,B+,Asthma,18/10/2022,Steven James,UnitedHealthcare,28837.68,Aspirin
+100,Marcus zamora,69,Male,O+,Arthritis,13/11/2021,Jeremiah Wolf,Cigna,25425.73,Aspirin
+101,Katie henry,70,Male,B+,Diabetes,08/07/2022,Roberto Petersen,Aetna,7187.27,Aspirin
+102,William morton,21,Male,A+,Diabetes,25/06/2023,Christina Hammond,UnitedHealthcare,3125.74,Ibuprofen
+103,Katrina martin,47,Male,A-,Diabetes,09/07/2019,Patricia Colon,Medicare,31516.1,Penicillin
+104,Hunter mckay,85,Male,A-,Arthritis,14/05/2021,Dominic Mitchell,UnitedHealthcare,40014.76,Aspirin
+105,Dwayne davis,28,Male,O+,Cancer,15/01/2024,Wendy Davis,Medicare,40782.93,Ibuprofen
+106,Sarah caldwell,62,Male,A-,Obesity,30/09/2019,Daniel Carson,Cigna,3879.08,Aspirin
+107,David higgins,49,Female,B-,Arthritis,05/03/2021,Erin Henderson MD,Medicare,24948.48,Penicillin
+108,Bradley combs,52,Male,AB-,Hypertension,14/05/2021,Christopher Butler,Cigna,37734.74,Penicillin
+109,Christina schmitt,53,Male,B+,Cancer,08/06/2023,Samuel Robles,UnitedHealthcare,27360.46,Ibuprofen
+110,Colton strong,55,Male,AB-,Asthma,13/05/2022,Benjamin Webb,Aetna,37405.7,Paracetamol
+111,Mark price,18,Male,B-,Arthritis,22/09/2022,Krystal Fox,Medicare,31485.97,Ibuprofen
+112,Suzanne schneider,52,Male,AB-,Hypertension,25/08/2023,Bruce Garrett,Medicare,23737.4,Lipitor
+113,Michael hurley,67,Male,AB-,Obesity,02/06/2019,Jonathan Watson,Aetna,3326.38,Lipitor
+114,Lindsey lambert,82,Female,A+,Hypertension,19/11/2021,Christopher Guerra,Medicare,23067.67,Ibuprofen
+115,Rebecca parsons,37,Female,O+,Asthma,02/12/2019,Steven Adams,Aetna,8521.21,Penicillin
+116,Judy johnson,52,Female,AB-,Cancer,21/08/2020,Victoria Patel,Cigna,47985.17,Penicillin
+117,Tonya campbell,37,Female,B+,Asthma,12/02/2021,Louis Bell,UnitedHealthcare,25230.25,Ibuprofen
+118,James ross,83,Female,A+,Diabetes,13/01/2024,Michael Baker,Blue Cross,10352.21,Aspirin
+119,Sara cook,33,Male,O-,Arthritis,26/12/2021,Douglas Fleming,Medicare,6175.87,Aspirin
+120,Anne howell,22,Female,A-,Obesity,22/08/2022,Patrick Carter,Blue Cross,23499.94,Penicillin
+121,Renee bailey,19,Female,B+,Cancer,03/07/2021,Sarah Shaffer,Medicare,33681.57,Ibuprofen
+122,Jeffrey turner,85,Female,O+,Obesity,31/05/2020,Matthew Carter,Aetna,39957.94,Ibuprofen
+123,Dr. lauren clark dds,19,Male,B+,Cancer,26/10/2020,Brian Wagner,UnitedHealthcare,49833.71,Lipitor
+124,Terry thomas,50,Female,B-,Asthma,03/06/2021,Lucas Cole,Aetna,48175.47,Paracetamol
+125,Jason baker,50,Female,O-,Obesity,24/10/2020,Julia Yoder,UnitedHealthcare,40133.97,Ibuprofen
+126,Jessica gutierrez,40,Male,O+,Obesity,27/08/2019,Crystal Chavez,Aetna,9585.95,Lipitor
+127,Courtney hodges,57,Male,AB-,Obesity,30/11/2021,Brenda Lopez,Medicare,40693.35,Aspirin
+128,Anthony reyes,82,Male,AB+,Obesity,15/10/2023,Michael Cole,UnitedHealthcare,16399.27,Penicillin
+129,Leah cross dds,20,Male,AB+,Diabetes,17/03/2024,Michael Larson,Blue Cross,44939.57,Ibuprofen
+130,Paul martinez,20,Male,B+,Hypertension,13/10/2019,Tracey Spence,Blue Cross,10663.91,Aspirin
+131,Denise rodriguez,19,Female,A-,Hypertension,02/03/2020,Susan Gibson,Cigna,22564.79,Paracetamol
+132,Ashley erickson,32,Female,AB-,Cancer,05/11/2019,Gerald Hooper,Aetna,-502.51,Penicillin
+133,Sean cardenas,55,Male,B-,Diabetes,07/02/2021,Todd Sanchez,Cigna,34758.26,Aspirin
+134,Alan alvarez,81,Male,B+,Hypertension,25/10/2021,Elizabeth Morales,UnitedHealthcare,46377.87,Lipitor
+135,Jessica phillips,26,Male,O-,Hypertension,24/07/2022,Kimberly Petersen,Blue Cross,7555.77,Paracetamol
+136,Timothy coleman,54,Female,AB+,Cancer,04/03/2020,Misty Garcia,UnitedHealthcare,14299.99,Lipitor
+137,Christina woods,57,Male,B-,Arthritis,01/08/2021,Melissa Fernandez,Cigna,46429.51,Paracetamol
+138,Melissa scott,38,Female,AB+,Asthma,24/01/2020,Kari Moore,Medicare,17978.95,Ibuprofen
+139,Gary hopkins,54,Male,O+,Obesity,30/07/2021,David Hubbard,Medicare,32629.07,Paracetamol
+140,April valencia,42,Male,A+,Diabetes,04/01/2024,Lonnie Morgan,Medicare,22356.23,Aspirin
+141,Rita archer,20,Male,O-,Diabetes,05/01/2024,Victoria Gonzales,Medicare,48995.98,Lipitor
+142,Kim pena,44,Female,O-,Hypertension,11/08/2020,Cindy White,UnitedHealthcare,4532.48,Lipitor
+143,Jason foley,54,Male,B+,Diabetes,17/06/2022,Douglas Li,Medicare,35521.58,Paracetamol
+144,Shaun guzman,21,Female,AB-,Arthritis,02/04/2022,Lori Mendoza,Aetna,1589.5,Aspirin
+145,Matthew white,45,Female,AB+,Diabetes,03/06/2020,Ryan Ross,Medicare,22950.65,Ibuprofen
+146,Alexis wilson,68,Female,B+,Arthritis,16/08/2019,Brian Walton,Aetna,2678.95,Paracetamol
+147,Jacqueline marshall,27,Male,A+,Hypertension,22/02/2024,Michael Berg,UnitedHealthcare,39615.6,Penicillin
+148,Robert higgins,42,Male,AB-,Asthma,06/05/2021,Scott Davis,Medicare,13355.78,Ibuprofen
+149,Sierra morton,27,Female,B-,Asthma,27/10/2021,Daniel Shelton,Aetna,32561.53,Ibuprofen
+150,Natalie stanton,80,Male,B+,Asthma,01/09/2020,Tara Moreno,Medicare,29221.34,Paracetamol
+151,Jessica acevedo,21,Male,O+,Diabetes,26/05/2021,Kristie Morgan,Medicare,12880.65,Penicillin
+152,Jennifer mcmillan,84,Female,A-,Obesity,22/06/2022,Joseph Jones,Aetna,15475.4,Ibuprofen
+153,Christopher mcclain,67,Female,O-,Arthritis,17/05/2023,Maria Tran,Medicare,27309.44,Aspirin
+154,Kevin hicks,66,Male,AB+,Arthritis,23/06/2021,Kelly Murphy,Medicare,1897.89,Ibuprofen
+155,Melinda richards,37,Female,A-,Cancer,17/11/2023,Katherine Brown,Aetna,31308.21,Penicillin
+156,Robyn miranda,30,Female,A-,Diabetes,11/10/2020,Elizabeth Frank,Medicare,42792.24,Ibuprofen
+157,Scott castillo,78,Male,O+,Diabetes,10/08/2021,Alyssa Edwards,Cigna,14377.33,Penicillin
+158,John garcia,39,Female,A+,Diabetes,29/08/2023,Jesse Thomas,UnitedHealthcare,1150.87,Penicillin
+159,Michael taylor,29,Male,O-,Asthma,27/02/2020,Erica Mccormick,Medicare,41939.12,Ibuprofen
+160,Jeffrey wood,81,Female,AB-,Cancer,07/07/2021,Amber Holmes,UnitedHealthcare,41982.37,Aspirin
+161,Michael smith,66,Female,AB-,Obesity,03/06/2022,Austin Jackson,Cigna,33861.02,Aspirin
+162,William griffith,65,Male,B-,Asthma,20/02/2020,Shane Morris,Aetna,49321.16,Penicillin
+163,Christina lawrence,80,Male,AB-,Asthma,05/02/2021,Brent Smith,Cigna,47433.28,Penicillin
+164,Jessica holmes,72,Female,O-,Arthritis,24/10/2020,Kayla Davis,Medicare,19065.06,Paracetamol
+165,Tracey greene,85,Male,O-,Cancer,06/12/2023,Rose Zuniga,Cigna,50142.03,Ibuprofen
+166,Amanda lopez,68,Female,O+,Hypertension,21/12/2021,Ethan Wagner,Aetna,12081.68,Lipitor
+167,Laura peters,56,Female,A-,Cancer,03/09/2023,Phillip Williams,Aetna,18030.79,Lipitor
+168,Lauren anderson,53,Female,O-,Asthma,18/10/2020,Maureen Hill,Medicare,5142.16,Paracetamol
+169,William campos,37,Female,B+,Asthma,07/07/2021,Heidi Compton MD,UnitedHealthcare,19851.24,Penicillin
+170,Jessica gonzales,57,Female,O+,Hypertension,28/08/2023,Kimberly Gonzalez,Cigna,20545.87,Penicillin
+171,Bruce gonzales,36,Male,O+,Arthritis,17/11/2019,Rebecca Morgan,Cigna,36869.73,Penicillin
+172,Robert walsh,20,Female,B+,Cancer,22/11/2020,Sabrina Rogers,Cigna,40598.42,Paracetamol
+173,Lisa lewis,83,Male,O-,Asthma,13/11/2021,Kevin Brown,Aetna,18198.06,Ibuprofen
+174,William ruiz,79,Male,B+,Obesity,13/02/2022,Sarah Cole,Blue Cross,4920.04,Paracetamol
+175,Steven baldwin,62,Male,O+,Diabetes,16/05/2019,Jennifer Hall,UnitedHealthcare,3864.14,Aspirin
+176,Megan colon,38,Male,AB+,Asthma,04/08/2021,Emily Cruz,Blue Cross,21562.86,Paracetamol
+177,Kimberly brooks,75,Female,B-,Cancer,03/01/2020,Michael Anderson,Medicare,11815.2,Ibuprofen
+178,Edward smith jr.,28,Male,A+,Hypertension,13/09/2022,Natalie Sellers,Cigna,25796.87,Lipitor
+179,Allison cordova,36,Male,O-,Hypertension,19/12/2020,Patrick Ochoa,UnitedHealthcare,4266.78,Lipitor
+180,Linda thomas,54,Male,AB+,Obesity,31/03/2023,Daniel Rodgers,Cigna,4751.16,Penicillin
+181,Parker moore,81,Female,B-,Diabetes,08/05/2020,Taylor Baldwin,Aetna,17968.5,Lipitor
+182,Tanya soto,56,Female,AB+,Obesity,31/07/2023,Adam Ross,Cigna,11311.33,Lipitor
+183,Michael jordan,30,Male,AB-,Hypertension,09/01/2022,Amy Williams,Blue Cross,47242.22,Ibuprofen
+184,Christina martin,64,Female,A-,Diabetes,16/12/2023,Martha Graham,Cigna,17670.51,Paracetamol
+185,Tracy burke,76,Male,A+,Obesity,05/12/2020,Emily Thomas,Medicare,5714.75,Lipitor
+186,David spence,21,Female,AB+,Diabetes,11/11/2021,Terrance Rosales,Cigna,5985.98,Penicillin
+187,Joseph foster,59,Female,O+,Obesity,11/09/2019,Daniel Smith,Blue Cross,27385.74,Penicillin
+188,Nicholas hall,31,Female,A-,Diabetes,15/12/2020,Marissa Stevenson,UnitedHealthcare,3730,Ibuprofen
+189,Christina macias,36,Female,O+,Asthma,08/12/2022,Katie Fitzpatrick,Blue Cross,22480.97,Ibuprofen
+190,Scott jones,42,Female,B+,Diabetes,15/07/2021,Dennis Small,Aetna,35022.32,Aspirin
+191,James anderson,18,Female,AB+,Asthma,16/06/2022,Chris Holt,Blue Cross,45072.42,Lipitor
+192,Shaun long,62,Female,A+,Obesity,09/02/2024,Jenny Griffith,UnitedHealthcare,45902.71,Aspirin
+193,Kristina mora,53,Male,AB+,Hypertension,04/03/2024,Gregory Lambert,Medicare,28899.19,Paracetamol
+194,Joshua richmond,82,Female,A+,Obesity,11/02/2022,Michael Armstrong,Blue Cross,39003.18,Lipitor
+195,Mark lawrence,19,Female,O-,Diabetes,08/02/2022,Melissa Terry,Blue Cross,10348.82,Ibuprofen
+196,John ellis,83,Female,A-,Hypertension,15/06/2023,Thomas Bruce,UnitedHealthcare,14371.54,Paracetamol
+197,Mrs. tiffany dennis,26,Male,O-,Diabetes,11/10/2021,James James DVM,UnitedHealthcare,13769.4,Ibuprofen
+198,Cynthia huang,51,Male,O+,Arthritis,12/12/2021,Sean Smith,Aetna,35868.54,Lipitor
+199,Melissa lawrence,20,Male,O+,Obesity,09/07/2023,John Hansen,Blue Cross,35205.28,Lipitor
+200,Steven goodwin,61,Female,A-,Obesity,08/09/2020,Teresa Mccarthy,Blue Cross,21576.5,Ibuprofen
+201,Mary hunt,44,Male,AB-,Hypertension,31/08/2020,Stephanie Barnett,Aetna,18771.01,Lipitor
+202,Eric rivera,74,Female,AB+,Cancer,10/04/2024,Mr. Luke Nunez Jr.,Blue Cross,21668.56,Lipitor
+203,Alan taylor,82,Female,B-,Diabetes,10/08/2021,Stacy Stewart,Cigna,36339.82,Lipitor
+204,Michael campbell,83,Male,O-,Diabetes,25/01/2022,Andrea Oneal,Cigna,40825.18,Aspirin
+205,Ashley webb dds,62,Female,AB-,Cancer,12/09/2023,Eric Coleman,Blue Cross,40469.57,Penicillin
+206,Shannon brown,62,Female,B-,Obesity,05/08/2020,Anthony Barnes,Medicare,25749.52,Ibuprofen
+207,Lawrence shepherd,18,Male,A-,Asthma,07/05/2022,Michael Hickman,Aetna,15841.2,Ibuprofen
+208,Scott wade,66,Male,A+,Arthritis,13/02/2022,Dustin Wolf,Medicare,36086.57,Paracetamol
+209,Heather curtis,26,Female,AB+,Asthma,03/03/2024,Amanda Wells,Blue Cross,32085.23,Penicillin
+210,Kevin jefferson,45,Female,B+,Cancer,14/03/2020,Jason Miller,Cigna,12356.56,Aspirin
+211,David griffin,26,Male,AB-,Asthma,07/02/2024,Holly James,Aetna,15367.41,Ibuprofen
+212,Grant george,26,Male,O+,Cancer,21/07/2019,April Cox,Medicare,40190.2,Penicillin
+213,Eric stewart,79,Female,O+,Diabetes,14/04/2023,Virginia Lynch,Aetna,3872.1,Penicillin
+214,Robert pittman,33,Female,B-,Arthritis,17/01/2024,Patricia Fuller,Cigna,3311.59,Lipitor
+215,Sydney cross,34,Female,O+,Cancer,25/06/2019,Michelle Ward,UnitedHealthcare,18524.87,Lipitor
+216,David crawford,76,Female,AB-,Hypertension,20/05/2021,Robin Adams,UnitedHealthcare,30107.49,Ibuprofen
+217,Leah drake,50,Female,B-,Obesity,03/04/2020,Emily Morales,UnitedHealthcare,15826.1,Paracetamol
+218,Diana hall,44,Male,B-,Diabetes,21/01/2020,Adriana Morrow,Blue Cross,26437.77,Ibuprofen
+219,Justin le,38,Female,AB-,Arthritis,02/12/2021,Michael Mitchell,Aetna,49663.45,Paracetamol
+220,Karen price dds,43,Male,AB+,Cancer,28/05/2021,Caroline Choi,Aetna,27278.24,Ibuprofen
+221,Carolyn steele,27,Female,AB+,Hypertension,23/03/2020,Michael Robinson,Cigna,33170.44,Paracetamol
+222,Lauren ramirez,78,Male,A+,Asthma,06/08/2022,Heather Miller,Medicare,1791.39,Paracetamol
+223,Jacob newman,40,Male,A+,Diabetes,09/03/2024,Howard Obrien,Blue Cross,31188.04,Ibuprofen
+224,Katherine barnett,25,Male,AB-,Arthritis,15/03/2022,Faith Cook,Medicare,13854.65,Penicillin
+225,Jodi martinez,67,Female,AB+,Obesity,08/08/2020,Donna Colon,Blue Cross,11870.91,Ibuprofen
+226,Andrea allen,47,Female,AB+,Obesity,09/06/2019,David Lindsey,UnitedHealthcare,25574.13,Aspirin
+227,Noah baxter,75,Male,AB-,Arthritis,07/09/2019,Anthony Nixon,Aetna,6132.4,Paracetamol
+228,Hector maxwell,58,Female,A-,Obesity,14/02/2021,Doris Hawkins,Medicare,33343.9,Lipitor
+229,Holly walters,26,Female,A-,Hypertension,10/11/2019,Caleb James,Medicare,43484.25,Penicillin
+230,Joseph smith,22,Male,O+,Obesity,16/04/2023,Patricia Moore,UnitedHealthcare,7858.93,Penicillin
+231,Albert thomas,29,Female,B+,Asthma,25/04/2020,Matthew Gray,Cigna,33161.94,Paracetamol
+232,Jeffery williamson,30,Male,A-,Cancer,21/08/2021,Justin Lowe,Cigna,2879.46,Ibuprofen
+233,Jonathan meadows,22,Female,O+,Asthma,14/01/2021,Danny Mcdonald,Aetna,46492.86,Aspirin
+234,Kristin bennett,34,Male,AB+,Hypertension,12/09/2020,Gina Weaver,Aetna,5259.27,Paracetamol
+235,Michael smith,20,Male,AB+,Arthritis,27/03/2020,Eddie Jackson,UnitedHealthcare,2784.58,Aspirin
+236,Joseph carpenter,37,Female,A-,Arthritis,26/07/2019,Miss Valerie Saunders MD,Aetna,13418.22,Penicillin
+237,Larry mayer,25,Female,A+,Cancer,07/12/2023,Richard Petty,Blue Cross,36990.46,Aspirin
+238,Clayton peterson,45,Female,B-,Cancer,11/06/2021,Patricia Bean,Aetna,43567.14,Paracetamol
+239,Donald alvarez,18,Male,O-,Diabetes,11/02/2022,Ronald Jones,UnitedHealthcare,35570.08,Ibuprofen
+240,Sarah lee,56,Male,O+,Arthritis,12/09/2020,Jack Wall,Blue Cross,6848.13,Aspirin
+241,John perez,44,Male,AB-,Asthma,25/05/2020,Felicia Morrison,Aetna,4677.6,Lipitor
+242,Timothy jacobs,34,Male,O+,Hypertension,25/09/2023,Crystal Schultz,Aetna,35157.17,Penicillin
+243,Nathan small,26,Male,B+,Obesity,22/06/2022,Bailey Gonzalez,UnitedHealthcare,34719.17,Lipitor
+244,Dustin wright,32,Male,O+,Obesity,12/01/2020,Michael Guzman,Aetna,23775.45,Aspirin
+245,Jacob williams,64,Male,B+,Arthritis,29/07/2022,Elizabeth Flowers,UnitedHealthcare,17732.47,Ibuprofen
+246,William mccoy,80,Male,A-,Asthma,20/02/2023,Whitney Vaughan,Cigna,3845.4,Penicillin
+247,Dr. matthew wilkins,80,Male,A-,Cancer,14/07/2021,Seth Nelson,Blue Cross,22401.55,Lipitor
+248,Joseph gonzalez,37,Female,O+,Hypertension,17/04/2024,Erin Wright,UnitedHealthcare,23340.3,Aspirin
+249,Robert fields,52,Female,A+,Hypertension,04/02/2021,Jennifer Flores,Blue Cross,3042.41,Aspirin
+250,Lawrence miranda,83,Female,O-,Diabetes,02/09/2021,Brandi Knight,Blue Cross,41817.68,Paracetamol
+251,Mitchell carroll,28,Female,B-,Arthritis,10/09/2022,Chad Irwin,Cigna,49700.32,Paracetamol
+252,Cody nichols,63,Male,A+,Diabetes,25/11/2022,Victoria Williams,Blue Cross,45157.47,Lipitor
+253,Kelli thompson,85,Male,O-,Asthma,04/08/2023,Travis Walton,Cigna,18832.1,Ibuprofen
+254,Danielle lopez,37,Male,O-,Hypertension,20/11/2020,Catherine Hernandez,Aetna,31732.13,Lipitor
+255,Melinda jones,22,Male,AB-,Diabetes,23/10/2019,Kristen Johnson,Blue Cross,42214.98,Paracetamol
+256,Kristin smith,80,Female,AB+,Arthritis,17/10/2020,Tammy Chavez,Medicare,12400.21,Aspirin
+257,Stephanie reynolds,48,Female,O+,Arthritis,27/12/2022,Savannah Colon,Blue Cross,1133.59,Penicillin
+258,Anna norman,29,Male,B+,Obesity,16/06/2023,Jessica Parks MD,Blue Cross,24340.32,Aspirin
+259,Maria hayes,76,Male,A+,Arthritis,06/11/2023,Joshua Singleton,Blue Cross,39390.94,Aspirin
+260,Tonya riley md,23,Female,A+,Hypertension,26/12/2023,Vincent Ramirez,Medicare,17012.51,Penicillin
+261,Regina dunn,33,Male,B-,Asthma,10/02/2023,Natasha Smith,Cigna,14493.61,Penicillin
+262,Michael jacobs,34,Male,O+,Hypertension,01/07/2020,John Sparks,Aetna,32679.27,Paracetamol
+263,Jason moore md,44,Female,AB+,Obesity,21/09/2023,Michelle Gutierrez,UnitedHealthcare,6232,Ibuprofen
+264,Eric hall,84,Male,B+,Diabetes,25/11/2020,Rachel Williams,Cigna,22982.25,Ibuprofen
+265,Malik martinez,25,Female,A+,Cancer,10/07/2020,Sergio Shelton,Aetna,28213.82,Aspirin
+266,Lisa kennedy,42,Male,B-,Arthritis,24/12/2022,Mr. Michael White MD,Cigna,10645.57,Ibuprofen
+267,Kristin ochoa,57,Male,B+,Arthritis,05/10/2019,Mary Drake,Blue Cross,35041.03,Lipitor
+268,Joseph zuniga,75,Female,O-,Arthritis,13/03/2022,Tonya Wade,Cigna,45980.29,Aspirin
+269,Kyle tyler,24,Female,AB+,Obesity,15/05/2020,Charles Torres,UnitedHealthcare,25163.82,Ibuprofen
+270,Eric duncan,43,Female,AB-,Asthma,02/12/2020,Jennifer Freeman,UnitedHealthcare,43670.38,Aspirin
+271,Rachel romero,22,Male,AB+,Asthma,08/01/2024,Reginald Becker,UnitedHealthcare,33706.6,Aspirin
+272,Michael anderson,64,Female,AB-,Arthritis,16/08/2019,Charles Webb,Medicare,5549.79,Ibuprofen
+273,Emily clark,66,Female,AB+,Arthritis,23/03/2023,Emily Perez,Blue Cross,49078.47,Penicillin
+274,Daniel mckinney,19,Male,O+,Obesity,20/01/2020,Rachel Thomas,UnitedHealthcare,23687.99,Ibuprofen
+275,Bonnie williams,79,Female,B-,Diabetes,23/01/2024,Christopher Flores,UnitedHealthcare,17720.32,Paracetamol
+276,Marcus henry,76,Male,B-,Asthma,20/12/2022,Jennifer Stevenson,UnitedHealthcare,27361.25,Paracetamol
+277,Katherine hart,37,Female,A+,Obesity,10/08/2021,Matthew Garcia,UnitedHealthcare,39265.65,Ibuprofen
+278,Michelle pierce,62,Male,O-,Arthritis,23/11/2020,Brett Meyer,Aetna,32868.08,Paracetamol
+279,Julie mejia,80,Male,A-,Asthma,10/02/2020,David Murphy,Blue Cross,22032.39,Ibuprofen
+280,Cameron sanchez,49,Female,A+,Diabetes,04/06/2019,Erin Henson,Blue Cross,43165.69,Ibuprofen
+281,David vincent,66,Female,O+,Obesity,24/09/2023,Katrina Fuentes,Blue Cross,1870.61,Penicillin
+282,Melissa gomez,50,Male,B-,Diabetes,16/08/2021,Harold Jackson,Blue Cross,50254.2,Aspirin
+283,Amanda ponce,39,Male,AB-,Arthritis,06/07/2020,Christopher Merritt,Aetna,23159.66,Penicillin
+284,Carol gomez,31,Female,B-,Diabetes,07/12/2022,Haley Kim,Aetna,11469.39,Paracetamol
+285,Christopher palmer,84,Male,AB-,Cancer,29/12/2023,Dr. Steven Johnson,Aetna,35435.17,Ibuprofen
+286,Paul hahn,71,Male,O-,Cancer,16/02/2023,Erin Cole,UnitedHealthcare,26139.79,Paracetamol
+287,Ashley moore,79,Male,B+,Cancer,12/05/2022,Breanna Nielsen,UnitedHealthcare,21296.52,Paracetamol
+288,Linda hamilton,56,Male,O+,Arthritis,20/09/2023,John Smith,UnitedHealthcare,8421.92,Paracetamol
+289,Robin cox,36,Male,O-,Obesity,11/01/2020,Frank Gonzalez,Cigna,23892.55,Aspirin
+290,Anthony hall,38,Male,O-,Obesity,30/03/2022,Matthew Williams,Blue Cross,8171.46,Ibuprofen
+291,Robert smith,21,Male,AB+,Arthritis,11/05/2020,Jonathan Gray,UnitedHealthcare,23457.31,Lipitor
+292,Derek carter,55,Female,O+,Cancer,20/01/2022,Timothy Rodriguez,Cigna,25787.44,Paracetamol
+293,Heather may,79,Female,A-,Hypertension,13/11/2019,Victor Welch,Blue Cross,28525.52,Aspirin
+294,Peter gonzalez,55,Male,AB-,Arthritis,03/02/2021,Robert Adams MD,UnitedHealthcare,17182.87,Lipitor
+295,Chris fletcher,24,Male,AB+,Asthma,24/10/2020,Andrew Jefferson,Cigna,20980.3,Aspirin
+296,Shirley wilkinson,39,Female,O+,Hypertension,03/10/2022,Sharon Hensley,Medicare,4243.2,Ibuprofen
+297,Courtney farrell,63,Female,B+,Cancer,24/12/2023,Eugene Branch,Cigna,40137.79,Ibuprofen
+298,Andrea willis,26,Male,AB-,Asthma,18/11/2023,Anthony Greer,Medicare,30676.44,Ibuprofen
+299,Chad huff,76,Female,AB+,Hypertension,12/03/2024,Bob Moyer,Aetna,45594.89,Paracetamol
+300,Devin gilbert,69,Male,A+,Cancer,12/04/2023,Heather Shea,Medicare,29076.63,Ibuprofen
+301,Donald davis,38,Female,O+,Obesity,16/06/2021,Nicholas Stevenson,Cigna,5223.5,Paracetamol
+302,Kurt murphy,19,Male,AB-,Hypertension,24/11/2021,Laura Guerra,Blue Cross,41840.66,Penicillin
+303,Sylvia west,61,Male,B-,Obesity,06/07/2020,Michele Bradford,Blue Cross,26504.87,Aspirin
+304,Donald vazquez,42,Female,AB-,Arthritis,26/06/2022,Mr. Jesse Cook,Cigna,7946.13,Ibuprofen
+305,Rebecca rush,57,Male,AB-,Diabetes,21/07/2020,Heather Simon,Cigna,18689.14,Lipitor
+306,Christopher curry,36,Female,A-,Arthritis,04/11/2019,Larry Mendez,Blue Cross,30051.98,Ibuprofen
+307,Michael edwards,68,Female,AB+,Hypertension,01/11/2021,Taylor Smith,Medicare,22913.55,Paracetamol
+308,Christopher arnold,25,Female,B+,Obesity,17/11/2019,Ian Singleton,UnitedHealthcare,36238.58,Ibuprofen
+309,Rachel hickman,37,Female,B+,Obesity,19/12/2022,Angela Burton,Medicare,25217.46,Aspirin
+310,Ashley gray,68,Male,A+,Asthma,06/10/2020,Lisa Payne,Aetna,41548.41,Aspirin
+311,Elizabeth perez,81,Female,AB-,Arthritis,16/01/2022,Sara Perry,Aetna,7562.39,Ibuprofen
+312,Angel randolph dds,74,Female,A+,Asthma,06/07/2023,Ann Brown,UnitedHealthcare,386.05,Aspirin
+313,Mark saunders,75,Male,O+,Arthritis,12/06/2021,David Marshall,Cigna,31491.61,Ibuprofen
+314,Christian lang,74,Female,AB+,Cancer,27/08/2019,Shirley Dawson,UnitedHealthcare,34224.35,Lipitor
+315,Pam perkins,28,Female,AB-,Diabetes,17/05/2022,Susan Hernandez,Medicare,23673.72,Ibuprofen
+316,Kayla greene,35,Male,AB+,Hypertension,02/10/2020,Gina Edwards,UnitedHealthcare,40302,Ibuprofen
+317,Michael david,79,Female,O+,Asthma,20/08/2021,Laura Howell,Medicare,37116.16,Lipitor
+318,Alexis mccall,59,Female,O-,Asthma,05/11/2019,Scott Beltran,Aetna,38606.96,Aspirin
+319,Mr. brandon perez md,84,Female,O-,Arthritis,06/02/2024,William Campbell,Cigna,17813.93,Penicillin
+320,Dr. jeffrey cole,36,Female,O-,Asthma,07/02/2024,Ethan Brock,Aetna,20773.02,Ibuprofen
+321,Matthew brown,69,Male,O+,Arthritis,22/06/2023,Nicholas Gomez,Blue Cross,9609.52,Lipitor
+322,Robert sexton,54,Male,A-,Cancer,19/11/2020,Richard Buchanan,Blue Cross,3771.24,Penicillin
+323,Ashley vasquez,30,Female,O+,Asthma,24/11/2021,David Gonzalez,Medicare,51587.94,Ibuprofen
+324,Michelle flynn,31,Male,O-,Cancer,26/07/2019,Kristin Schmitt,Medicare,28456.7,Lipitor
+325,Steven tran,81,Female,AB+,Cancer,05/07/2022,Kelly King,Cigna,33870.12,Ibuprofen
+326,James miller,61,Female,O+,Diabetes,29/08/2019,Jeffery Morgan,Medicare,2304,Paracetamol
+327,Bonnie hill,52,Male,B+,Hypertension,02/05/2024,Patricia Fowler,Aetna,1878.01,Paracetamol
+328,Anthony davis,25,Male,B+,Asthma,26/05/2020,David Patterson,Blue Cross,19160.99,Penicillin
+329,David sheppard,56,Male,B+,Cancer,20/03/2024,Daisy Eaton,Blue Cross,5811.63,Paracetamol
+330,Jodi lang,44,Male,O+,Diabetes,27/03/2024,Benjamin Bryant,Medicare,22868.53,Ibuprofen
+331,Vanessa taylor,30,Female,O+,Arthritis,22/03/2021,Cynthia Velazquez,Blue Cross,48281.91,Ibuprofen
+332,Wayne lynch,82,Male,O-,Cancer,03/10/2020,William Brock,Medicare,30562.57,Paracetamol
+333,Yesenia mcfarland,67,Male,B+,Obesity,17/05/2023,Douglas Lambert,Medicare,24293.63,Ibuprofen
+334,Kenneth wilson,41,Male,A+,Arthritis,12/08/2022,Alex Mcknight,Aetna,5878.78,Ibuprofen
+335,Jillian marks,84,Male,A-,Arthritis,20/06/2020,Gregory Fox,UnitedHealthcare,28410.44,Ibuprofen
+336,Michelle cruz dds,85,Female,AB+,Asthma,20/04/2023,Carrie Navarro,Medicare,27414.02,Ibuprofen
+337,Clarence ford jr.,26,Female,A-,Hypertension,28/10/2019,Laura Murillo,Aetna,5826.24,Penicillin
+338,Donald kane,49,Female,O+,Diabetes,31/08/2021,Alyssa Walsh,Cigna,2133.74,Ibuprofen
+339,Zachary larsen,47,Female,A+,Hypertension,14/07/2021,Jeff Barton,Blue Cross,34262.61,Penicillin
+340,Sheryl martinez,69,Male,A-,Diabetes,21/01/2022,Ricky Anderson,Aetna,44897.05,Paracetamol
+341,Mr. nathan avila,78,Female,O+,Asthma,16/09/2019,John Hurst,Cigna,22230.12,Penicillin
+342,Anne anthony,29,Male,AB+,Diabetes,20/01/2023,Cristina Wyatt,Cigna,32895.1,Aspirin
+343,Holly lambert,73,Male,A+,Cancer,04/01/2020,Christina Fowler,Medicare,5349.06,Paracetamol
+344,James rasmussen,53,Male,AB-,Obesity,03/03/2024,Gary Barr,Cigna,23235.85,Aspirin
+345,Sarah cannon,34,Male,AB+,Diabetes,06/07/2019,Frederick Whitney,Aetna,25683.28,Paracetamol
+346,Melinda tanner,38,Female,AB-,Obesity,01/12/2022,Mary Miller,Cigna,45560.28,Ibuprofen
+347,Laurie joseph,70,Female,B-,Arthritis,10/05/2020,Evan Lewis,UnitedHealthcare,16850.89,Penicillin
+348,Stephanie hunter,59,Female,AB+,Hypertension,10/03/2024,Adrienne Howard,Aetna,34366,Ibuprofen
+349,Gina davis,43,Male,AB+,Arthritis,14/01/2020,Daniel Jones,UnitedHealthcare,11968.02,Paracetamol
+350,Christopher shea jr.,49,Male,B-,Diabetes,07/06/2020,Craig Wolfe,Cigna,10076.89,Penicillin
+351,Mrs. sabrina ball,63,Male,AB-,Asthma,11/11/2020,Tina Griffin,Blue Cross,44582.82,Penicillin
+352,Joyce mccormick,40,Female,O+,Asthma,07/05/2021,John Hansen,Medicare,30334.99,Aspirin
+353,Devin bell,80,Male,B-,Arthritis,13/07/2021,Trevor Evans,Cigna,6196.64,Penicillin
+354,Allison ramirez,74,Female,B+,Cancer,25/03/2024,Mark Johnson,Cigna,45438.91,Lipitor
+355,Laura romero,70,Male,O+,Diabetes,25/03/2020,James Hays,Aetna,43707.18,Lipitor
+356,Toni faulkner,39,Female,AB-,Diabetes,14/05/2023,Nicholas Ferguson,Blue Cross,20105.03,Penicillin
+357,Patricia turner,47,Female,AB+,Diabetes,19/11/2022,Mr. Jeffrey Powell,UnitedHealthcare,11938.07,Penicillin
+358,Nathan ray,49,Male,AB+,Diabetes,10/03/2021,Timothy Carter,Cigna,10836.21,Lipitor
+359,Ryan sanchez,64,Male,A-,Obesity,15/11/2020,Jennifer Gonzales,Cigna,40037.48,Ibuprofen
+360,Thomas dennis,40,Male,A+,Asthma,28/01/2024,Leonard Chen,Medicare,42959.3,Paracetamol
+361,Mr. timothy flores,77,Male,A-,Arthritis,07/07/2020,Margaret Ramos,Medicare,40196.83,Paracetamol
+362,Wendy levine,61,Male,AB-,Hypertension,22/01/2023,Joy Davis,Aetna,39827.66,Ibuprofen
+363,Nicole gonzalez,36,Female,A-,Asthma,10/05/2020,Mary Mckee,Aetna,3516.85,Aspirin
+364,Michael ellison,19,Female,O+,Diabetes,09/07/2021,John Evans,Cigna,25414.8,Aspirin
+365,Brandon davis,21,Male,O-,Cancer,11/06/2020,Benjamin Payne,Cigna,36230.39,Paracetamol
+366,Vanessa garcia,49,Male,AB-,Asthma,21/04/2020,Jeanne Allen,UnitedHealthcare,22427.17,Lipitor
+367,Autumn peck,62,Female,A+,Obesity,06/10/2019,Kelly Jackson,Cigna,39250.45,Aspirin
+368,Nathaniel reynolds,54,Female,O-,Hypertension,11/07/2020,Michael Barber,UnitedHealthcare,5226,Penicillin
+369,Joyce moody,22,Male,AB-,Obesity,03/04/2022,Steven Clark,Cigna,7732.67,Paracetamol
+370,Mark fuentes,74,Male,A-,Hypertension,21/01/2020,Amy Bailey,Medicare,11304,Aspirin
+371,Brett ferguson,35,Female,A+,Asthma,16/12/2022,Cody Houston,UnitedHealthcare,38403.58,Lipitor
+372,Travis simmons,20,Male,B-,Asthma,20/07/2022,Gregory Nichols,UnitedHealthcare,14039.89,Ibuprofen
+373,Jeremy frye,18,Female,B-,Cancer,25/07/2021,Christopher Odom,UnitedHealthcare,6958.7,Paracetamol
+374,Cameron miller,55,Female,O+,Cancer,19/07/2023,Raymond Bell,Medicare,3254.03,Lipitor
+375,William williams dds,66,Male,B-,Diabetes,22/05/2023,Autumn Fitzgerald,Aetna,11855.95,Ibuprofen
+376,Tracie wright,62,Female,O-,Hypertension,08/07/2020,James Armstrong,Blue Cross,22368.38,Ibuprofen
+377,David reyes,43,Female,A-,Asthma,27/12/2022,Darius Schaefer,Medicare,48511.65,Lipitor
+378,Paige king,24,Female,B-,Diabetes,21/06/2019,Katherine Dunn,Aetna,10126.5,Ibuprofen
+379,James garcia,46,Female,O+,Diabetes,01/01/2021,Katherine Flynn,UnitedHealthcare,8470.64,Penicillin
+380,Lori harvey,58,Male,AB-,Asthma,07/09/2022,Julian Perkins,Medicare,25086.01,Lipitor
+381,Amy wang,58,Male,B+,Obesity,09/06/2022,Holly Taylor,Cigna,36524.38,Ibuprofen
+382,Jordan vargas,48,Male,B+,Cancer,01/11/2023,Mark King,UnitedHealthcare,5945.01,Paracetamol
+383,Gordon kelly,43,Male,O-,Obesity,06/08/2023,Shelby Johnson,Blue Cross,3601.68,Lipitor
+384,Nathan scott,74,Female,AB+,Obesity,30/07/2022,Angela Logan MD,Cigna,4920.19,Aspirin
+385,Lisa green,47,Female,AB-,Diabetes,04/02/2021,Gloria Schultz,UnitedHealthcare,48887.23,Ibuprofen
+386,Amy combs,35,Male,A+,Cancer,26/11/2021,Victor Morales,Blue Cross,48826.39,Paracetamol
+387,Kelly sanford,28,Male,B-,Arthritis,02/07/2020,Nancy Vaughn,UnitedHealthcare,5509.6,Lipitor
+388,Mrs. jessica black md,49,Male,A-,Diabetes,09/08/2021,Christopher Rivera,Medicare,37636.44,Ibuprofen
+389,Robert gould,28,Male,AB-,Obesity,18/01/2024,Brittany Rocha,Cigna,20885.92,Ibuprofen
+390,Christine vargas,50,Male,O-,Obesity,17/01/2023,Patricia Hall,Aetna,35114.49,Paracetamol
+391,Barbara diaz,59,Male,A-,Obesity,27/03/2024,Christopher Hudson,Blue Cross,6191.39,Lipitor
+392,John washington,22,Female,O+,Hypertension,10/01/2023,Walter Perez,Blue Cross,40697.97,Ibuprofen
+393,Devin stewart,62,Female,B+,Arthritis,14/07/2019,Jonathan Chang,Aetna,43465.95,Lipitor
+394,James roberts,21,Female,A+,Cancer,18/05/2020,Maria Ritter,Cigna,16866.07,Ibuprofen
+395,James yates,44,Male,B-,Obesity,15/06/2022,Elizabeth Snyder,Aetna,41454.69,Ibuprofen
+396,Peter nichols,27,Male,B+,Hypertension,27/03/2020,Dennis Harris,Cigna,47735.38,Penicillin
+397,Karen price,47,Male,O-,Diabetes,20/02/2020,Caroline Fields,UnitedHealthcare,2826.81,Lipitor
+398,Christopher jones,51,Male,O-,Hypertension,16/06/2020,Joseph Rivera,Blue Cross,26524.17,Penicillin
+399,Larry leonard,48,Female,B-,Hypertension,06/06/2019,Charles Reynolds,UnitedHealthcare,36727.58,Ibuprofen
+400,Michelle zhang,83,Male,B-,Arthritis,18/01/2022,Patricia Valentine,Blue Cross,4509.4,Paracetamol
+401,Kristen flores,64,Male,A+,Arthritis,11/01/2021,Angela Reed,Aetna,25709.58,Aspirin
+402,Matthew bell,19,Male,O+,Obesity,04/02/2021,Doris Johnson,Medicare,20086.22,Aspirin
+403,Bradley miranda,39,Male,B-,Asthma,30/05/2022,Devin Pratt,UnitedHealthcare,36862.17,Aspirin
+404,Christopher moore,23,Female,O+,Hypertension,19/12/2021,Angela Allison,Blue Cross,40065.34,Paracetamol
+405,Dan pineda,24,Male,B+,Diabetes,20/07/2021,Phyllis Nguyen,UnitedHealthcare,41997.35,Lipitor
+406,Mariah smith,73,Female,AB-,Cancer,27/12/2022,Melissa Mendoza,Blue Cross,22601.57,Paracetamol
+407,Sabrina cook,56,Male,O-,Obesity,05/09/2022,Christopher Bates,UnitedHealthcare,36204.73,Penicillin
+408,Melissa hoffman,36,Male,B+,Cancer,27/07/2022,April Cummings,Cigna,41311.29,Lipitor
+409,Joseph martin,33,Male,A+,Cancer,03/05/2024,Andrew Hill,Aetna,36890.27,Lipitor
+410,Melissa sims,21,Male,O+,Arthritis,28/08/2019,Susan Sampson,Aetna,5716.1,Aspirin
+411,Sarah evans,80,Male,B-,Diabetes,21/04/2024,Darren Becker,Blue Cross,10461.98,Aspirin
+412,Maria anderson,79,Female,O+,Arthritis,12/03/2024,Lee Santiago,Blue Cross,37879.98,Aspirin
+413,Maria johnston,44,Male,A+,Obesity,29/09/2019,Holly Walton,UnitedHealthcare,44355.2,Aspirin
+414,James cole,23,Male,AB+,Obesity,19/08/2022,Craig Howard,Medicare,28355.45,Penicillin
+415,Isaiah holt,75,Male,A-,Cancer,18/10/2021,Diane Riley,Blue Cross,22935.41,Ibuprofen
+416,Joseph gonzales,60,Male,A-,Hypertension,07/04/2023,John Schroeder,Medicare,42605.64,Lipitor
+417,Jennifer camacho,83,Male,AB-,Asthma,28/10/2019,Mark Watson,UnitedHealthcare,24023.96,Ibuprofen
+418,Hector jones,61,Female,AB+,Hypertension,29/06/2020,Diane Griffin,UnitedHealthcare,20577.71,Penicillin
+419,Jessica jones dds,82,Female,AB+,Diabetes,21/09/2022,Kenneth Mcintosh,Aetna,7264.89,Aspirin
+420,Isabella martin,40,Male,A-,Arthritis,10/08/2023,Victoria Hernandez,Cigna,29913.85,Ibuprofen
+421,Daniel palmer,70,Female,B+,Hypertension,16/05/2022,David Zavala,Cigna,43353.4,Lipitor
+422,Stephanie benson,68,Female,O+,Cancer,25/08/2020,Frederick Fields,Blue Cross,18382.66,Lipitor
+423,Ashley williams,31,Female,B-,Cancer,04/10/2023,Michael Nguyen,Blue Cross,49419.87,Ibuprofen
+424,Gregory nguyen,28,Male,O+,Asthma,28/04/2022,Casey Fowler,Aetna,9958.02,Penicillin
+425,Joe smith,84,Male,O+,Hypertension,29/05/2019,Michael Miller,Blue Cross,21438.28,Aspirin
+426,Lisa watts,34,Female,AB+,Arthritis,09/03/2024,Kaylee Hampton,Aetna,1820.02,Aspirin
+427,Alexander garcia,25,Female,B+,Hypertension,07/01/2020,Amber Gordon,Cigna,32760.47,Aspirin
+428,Elizabeth perkins,58,Female,B+,Asthma,10/11/2019,Colleen Meyers,Medicare,35421.83,Paracetamol
+429,Laura wells,78,Female,O+,Diabetes,24/01/2023,Eileen Hernandez,Medicare,44393.18,Aspirin
+430,Robert mccormick,56,Male,AB+,Diabetes,28/07/2019,Carrie Wright,Blue Cross,16578.91,Penicillin
+431,Michael yu,77,Male,AB-,Arthritis,18/07/2022,Jeffrey Schmidt,Medicare,33749.86,Paracetamol
+432,Jacob graham,61,Female,A+,Asthma,07/06/2020,Jaime Bell,UnitedHealthcare,3903.76,Penicillin
+433,Andrea kennedy,40,Female,B-,Cancer,07/12/2020,Brian Cooper,Medicare,22720.33,Lipitor
+434,Stacey anderson,80,Male,AB-,Diabetes,10/04/2020,Anthony Graves,Medicare,35411.47,Paracetamol
+435,Jason marsh,35,Male,A-,Hypertension,12/07/2023,Traci White MD,Medicare,27342.23,Aspirin
+436,Tiffany ferguson,85,Female,A+,Cancer,10/09/2022,Eric Lutz,Blue Cross,27971.28,Lipitor
+437,Mark hernandez,64,Male,AB-,Hypertension,15/04/2021,Brenda Hill,Cigna,26894.07,Aspirin
+438,Keith henry,30,Female,O-,Cancer,20/08/2020,Peter Brown,Medicare,36551.05,Ibuprofen
+439,Michelle wright,19,Female,A+,Arthritis,14/08/2020,Benjamin Banks,Medicare,10693.39,Ibuprofen
+440,Troy davis,64,Male,A+,Diabetes,17/07/2021,Natalie Perez,UnitedHealthcare,28835.44,Lipitor
+441,Misty burton,44,Male,B+,Diabetes,27/01/2023,Erica Williams,Medicare,7083.61,Lipitor
+442,Robert robinson,66,Female,O-,Asthma,04/09/2020,Jasmine Webb,Medicare,2068.43,Penicillin
+443,Christina calderon,79,Female,AB+,Hypertension,08/02/2020,David Cabrera,Blue Cross,42956.13,Aspirin
+444,John graham,59,Female,O+,Diabetes,01/07/2019,Julie Gonzales,Aetna,17307.37,Penicillin
+445,Michael parker,47,Male,O+,Asthma,01/01/2024,Julia Campbell,Aetna,41492.13,Aspirin
+446,William evans,49,Male,AB+,Obesity,10/03/2021,Zachary Robinson,UnitedHealthcare,16097.76,Paracetamol
+447,Valerie hodges,35,Male,AB+,Cancer,19/09/2019,Christine Smith,Blue Cross,44495.73,Paracetamol
+448,Brenda beck,69,Female,B+,Obesity,24/02/2023,Barbara Burgess,Blue Cross,2936.89,Aspirin
+449,Christine davis,57,Male,O+,Obesity,30/03/2022,Malik Goodwin,UnitedHealthcare,43374.01,Lipitor
+450,Kevin daniel,51,Female,A+,Asthma,30/08/2019,Diana Shaw,Aetna,6949.88,Paracetamol
+451,Brittney wagner,31,Female,O+,Arthritis,21/12/2019,Michael Mason,Blue Cross,15449.06,Lipitor
+452,Cristian buchanan,34,Female,A-,Obesity,31/08/2019,Alexis Bradford,Blue Cross,37458.16,Paracetamol
+453,Michael brady,57,Male,O+,Cancer,30/03/2022,Jasmine Parker,Medicare,5919.3,Ibuprofen
+454,Jordan leon,51,Female,O+,Arthritis,11/08/2023,Christina Lopez,Cigna,21534.72,Penicillin
+455,Katelyn cunningham,85,Male,B+,Asthma,29/10/2021,Richard Franco,Cigna,43393.92,Penicillin
+456,Krystal mendoza,51,Male,A-,Cancer,18/09/2020,Marc Reid,Medicare,50332.93,Aspirin
+457,Alex rodriguez,39,Male,AB+,Cancer,24/02/2021,Ryan Simmons,Aetna,18062.6,Paracetamol
+458,Geoffrey barker,75,Male,AB-,Hypertension,07/07/2023,Clinton Sanchez,UnitedHealthcare,30064.18,Paracetamol
+459,Alec mitchell,46,Female,O+,Hypertension,26/06/2023,Cindy Gonzalez,Blue Cross,45440.79,Ibuprofen
+460,Jason jordan,47,Male,O-,Obesity,12/11/2021,Christy Ochoa,Aetna,12073.07,Paracetamol
+461,Philip reyes,38,Female,O+,Arthritis,23/10/2021,Gabriel Livingston,UnitedHealthcare,48065.46,Paracetamol
+462,Aaron bradshaw,25,Female,O+,Arthritis,30/11/2019,Mackenzie Phillips,Aetna,16342.36,Lipitor
+463,Erica ford,65,Male,AB+,Hypertension,19/03/2023,Gabriel Lane,Cigna,21767.23,Lipitor
+464,Dr. katie barrett dvm,50,Female,O-,Hypertension,02/02/2022,Whitney Chavez,Blue Cross,16055.93,Aspirin
+465,Jacob young,40,Male,AB+,Obesity,25/09/2023,Tara Tucker,UnitedHealthcare,30123.54,Aspirin
+466,Amy ramos,70,Male,B+,Arthritis,28/10/2021,Dustin Alvarez,UnitedHealthcare,38572.17,Ibuprofen
+467,Patrick morales,56,Female,AB-,Hypertension,16/06/2020,Jessica Conway,Blue Cross,37798.95,Ibuprofen
+468,Sophia conway,25,Male,O+,Diabetes,07/10/2021,Heidi Wood,Medicare,38716.36,Ibuprofen
+469,James moore,20,Male,A-,Diabetes,29/04/2021,David Gordon,Aetna,13666.28,Paracetamol
+470,Christopher cochran,73,Female,AB-,Diabetes,12/05/2019,Jonathan Thomas,Cigna,30753.69,Lipitor
+471,Robert carter,82,Male,B-,Obesity,12/09/2021,Lori Diaz,UnitedHealthcare,44278.23,Aspirin
+472,Morgan nguyen,31,Male,B+,Diabetes,25/01/2021,Martin Dominguez,Aetna,6267.54,Ibuprofen
+473,Nathan montoya,74,Male,O-,Cancer,22/05/2020,Adam Roberts,Aetna,26276.79,Ibuprofen
+474,Joe berry phd,38,Female,B-,Asthma,20/06/2022,Nancy Beck,Blue Cross,33171.03,Aspirin
+475,Daniel ortiz,63,Female,AB-,Cancer,16/11/2020,Christy Hughes,UnitedHealthcare,44984.24,Paracetamol
+476,Matthew clark,62,Female,B-,Obesity,09/10/2020,Charles Hernandez,Cigna,27091.86,Ibuprofen
+477,Jacqueline hardy,80,Male,O+,Obesity,12/12/2023,Hannah Clay,UnitedHealthcare,32387.93,Ibuprofen
+478,Emily joseph,25,Female,AB-,Cancer,14/06/2022,Steven Dixon,Cigna,32905.48,Lipitor
+479,Sarah hicks,51,Male,A-,Diabetes,23/02/2023,Monica Thomas,Blue Cross,1332.34,Aspirin
+480,Briana ross,46,Female,AB+,Obesity,25/04/2024,Alexander Moore,Aetna,17702.57,Ibuprofen
+481,Mary mccullough,18,Female,A+,Asthma,08/06/2022,Curtis Mckinney,UnitedHealthcare,33443.55,Penicillin
+482,Brian osborne,30,Female,B-,Cancer,07/12/2023,Stephanie Shepard,Cigna,23175.5,Ibuprofen
+483,Susan walters,43,Male,AB-,Cancer,03/11/2020,Russell Soto,Medicare,14224.31,Paracetamol
+484,Catherine harvey,21,Male,AB+,Hypertension,03/10/2023,Charles Cardenas,Medicare,23483.5,Paracetamol
+485,Cory pierce,28,Female,B-,Hypertension,11/06/2022,Brandon Montoya,UnitedHealthcare,31326.73,Paracetamol
+486,Jesus jordan,26,Female,O-,Hypertension,03/07/2021,Andrew Bishop,Aetna,48651.74,Penicillin
+487,Ann duncan,24,Male,A-,Asthma,19/03/2024,Daniel Sanders,Aetna,18932.31,Penicillin
+488,Sarah porter,55,Female,AB-,Diabetes,11/01/2024,Jeremiah Nunez,Blue Cross,22063.23,Paracetamol
+489,Jacqueline dean,41,Female,A+,Cancer,26/06/2021,Carolyn Peters,Medicare,20714.71,Lipitor
+490,Anne lam,85,Male,O+,Asthma,19/01/2024,Paul Ruiz,UnitedHealthcare,34510.88,Ibuprofen
+491,Jennifer gomez,45,Male,O-,Hypertension,15/12/2020,Robert Palmer,Blue Cross,42200.51,Lipitor
+492,David curtis,22,Female,B+,Hypertension,14/05/2021,Lisa Grimes,Cigna,24451.29,Paracetamol
+493,Joshua johnson,18,Male,B+,Diabetes,10/07/2021,Ronald Russell,UnitedHealthcare,30289.7,Paracetamol
+494,Jeremy bowen,60,Male,B-,Diabetes,25/07/2020,Tracey Smith,Medicare,35317.49,Lipitor
+495,Dennis clarke,22,Female,AB+,Obesity,17/09/2019,Mark Baker,Cigna,8033.61,Lipitor
+496,Jennifer spence,65,Female,A+,Obesity,14/05/2019,Austin Perry,Medicare,7391.53,Aspirin
+497,Billy fitzgerald,73,Female,B+,Asthma,31/05/2020,Dr. Mackenzie Bell,Aetna,35945.88,Ibuprofen
+498,Kristen james,82,Female,AB+,Hypertension,27/03/2020,Kimberly Calhoun,Medicare,10780.74,Ibuprofen
+499,Caitlin bender,32,Female,O-,Arthritis,23/12/2019,Timothy Aguilar,Aetna,28743,Penicillin
